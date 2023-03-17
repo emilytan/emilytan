@@ -1,12 +1,12 @@
 👋 Hi, I’m @emilytan
 
-👀 I’m skilled in Angular, Javascript, Java, Git, Bash Script, Jenkins, 
-    HTML, CSS, Typescript, Bootstrap, Grunt, REST API, JSON Web Token
+👀 I’m skilled in Angular, Typescript, Java, Kotlin, Git, Bash Script, Jenkins, 
+    HTML, CSS, Javascript, Bootstrap, Grunt, REST API, JSON Web Token, Kafka, PostgreSQL
     
 🌱 I’m currently learning Machine Learning!
 
 💞️ I’m passionate about software development and project management, 
-    it excites me when I deliver projects and when my customers are satisfied
+    it excites me to deliver successful projects and when my customers are satisfied
     
 🎂 I enjoy hiking, swimming and baking!
 
